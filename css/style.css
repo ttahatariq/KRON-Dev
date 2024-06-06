@@ -276,13 +276,13 @@ body {
 }
 
 .text-accent_violet {
-  color: #c51bf0;
+  color: #2fe71a;
 }
 .text-accent_aqua {
   color: #5eecff;
 }
 .text-accent_orange {
-  color: #f17e14;
+  color: #2fe71a;
 }
 
 ._glass-blured {
@@ -413,7 +413,7 @@ body {
   cursor: pointer;
 }
 .block-cross-in-link:hover .block-cross-in-link__right-elements::before, .block-cross-in-link:active .block-cross-in-link__right-elements::before {
-  background-color: #c51bf0;
+  background-color: #2fe71a;
 }
 
 ._centered {
